@@ -1,6 +1,9 @@
 # The TL;DR of EDA
 
-Notebook attached to the talk given in PyData TLV 2024
+**Notebook attached to the talk given in PyData TLV 2024**
+
+<img src="https://images.squarespace-cdn.com/content/v1/62ebd8e38f68d651ae7892a2/9def1f60-daba-4ff6-838f-ea9bcfc7ee6d/PyData_logo.png?format=1500" width="400" height="130">
+
 
 <u> Full Conference Agenda: </u>
 
