@@ -2,11 +2,11 @@
 
 Notebook attached to the talk given in PyData TLV 2024
 
-<u> Full Conference Agenda: <\u>
+<u> Full Conference Agenda: </u>
 https://pydata.org/telaviv2024
 
 
-<u> UCI Wine dataset: <\u>
+<u> UCI Wine dataset: </u>
 https://archive.ics.uci.edu/dataset/109/wine
 
 `ucimlrepo` package full documentation:
